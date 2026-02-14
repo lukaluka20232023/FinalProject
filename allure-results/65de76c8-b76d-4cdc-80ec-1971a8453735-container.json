@@ -1,0 +1,1 @@
+{"uuid":"65de76c8-b76d-4cdc-80ec-1971a8453735","name":"tests.api.VerifyLoginApiValidTest","children":["816804dd-fde9-4f14-abe5-4fb3b9788e2d"],"befores":[{"name":"setupApi","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771047710762,"stop":1771047710764}],"afters":[],"start":1771047704483,"stop":1771047711044}

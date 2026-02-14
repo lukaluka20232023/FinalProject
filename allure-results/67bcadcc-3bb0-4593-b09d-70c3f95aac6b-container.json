@@ -1,0 +1,1 @@
+{"uuid":"67bcadcc-3bb0-4593-b09d-70c3f95aac6b","name":"tests.api.CreateAccountApiTest","children":["a3818c76-6488-49d4-bee8-0a19ddb8ecd7"],"befores":[{"name":"setupApi","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771047704491,"stop":1771047705471}],"afters":[],"start":1771047704483,"stop":1771047711043}

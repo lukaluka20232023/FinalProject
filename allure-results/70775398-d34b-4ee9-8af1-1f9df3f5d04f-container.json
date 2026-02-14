@@ -1,0 +1,1 @@
+{"uuid":"70775398-d34b-4ee9-8af1-1f9df3f5d04f","name":"tests.api.GetUserDetailByEmailPositiveTest","children":["6df6fad5-464d-443b-a3a2-ebab75911809"],"befores":[{"name":"setupApi","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771047709068,"stop":1771047709069}],"afters":[],"start":1771047704483,"stop":1771047711045}

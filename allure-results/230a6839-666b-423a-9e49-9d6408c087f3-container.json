@@ -1,0 +1,1 @@
+{"uuid":"230a6839-666b-423a-9e49-9d6408c087f3","name":"tests.api.DeleteAccountApiTest","children":["44191d61-8a44-4948-aadc-3a6b0a66eefe"],"befores":[{"name":"setupApi","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1771052166796,"stop":1771052166797}],"afters":[],"start":1771052145819,"stop":1771052167825}
